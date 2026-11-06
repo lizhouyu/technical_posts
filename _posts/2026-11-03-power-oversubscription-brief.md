@@ -8,7 +8,6 @@ media_subpath: /assets/img/briefs/2026-11-03/
 image:
   path: fig1-electrical-boundaries.png
   alt: Electrical boundaries from PoL through rack, facility, and grid
-pin: true
 math: true
 mermaid: true
 ---
