@@ -8,7 +8,6 @@ media_subpath: /assets/img/briefs/2026-11-04/
 image:
   path: fig-800v-stack.png
   alt: 800 V DC AI plant stack from grid to PoL
-pin: true
 math: true
 mermaid: true
 ---
