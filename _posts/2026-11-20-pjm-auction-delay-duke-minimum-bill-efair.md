@@ -7,7 +7,7 @@ description: "A 5-minute cut. State advocates and PJM’s Independent Market Mon
 media_subpath: /assets/img/briefs/2026-11-20/
 image:
   path: fig-poi-voltage-reactive-support.png
-  alt: Minimum point-of-interconnection voltage in Ahmed and Manshadi, arXiv 2611.23771, RTS-GMLC simulation: 0.957 pu with flexibility only, 0.982 pu with a BESS inverter at plus or minus 0.95 power factor, and 0.993 pu with a STATCOM, against a 0.95 pu limit
+  alt: "Minimum point-of-interconnection voltage in Ahmed and Manshadi, arXiv 2611.23771, RTS-GMLC simulation: 0.957 pu with flexibility only, 0.982 pu with a BESS inverter at plus or minus 0.95 power factor, and 0.993 pu with a STATCOM, against a 0.95 pu limit"
 ---
 
 ## At a glance
